@@ -1,6 +1,8 @@
 # ohm_mecanum_sim
 This package comprises a pygame-based robot simulation for mecanum-driven kinematic concepts and is extended for kobuki robot.
 
+Please refer to this repository [ohm_mecanum_sim](https://github.com/autonohm/ohm_mecanum_sim) for the latest modifications.
+
 <img src="./images/kobuki_demo.png"  width="300" height="300">
 <img src="./images/gmapping_demo.png"  width="300" height="300">
 <img src="./images/navigation_demo.png"  width="300" height="300">
